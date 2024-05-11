@@ -35,7 +35,7 @@ Dapat dilihat di tampilan before web tata letak setiap element berantakan, serta
 ![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/509c0fb8-083e-4937-9745-1c051591c82b)
 #### After
 ![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/d2728862-dc14-4e69-89ba-0bf3ed09b511)
-Bagian ini
+Digambar before, dapat dilihat ada slider yang menampilkan beberapa tombol portal layanan yang disediakan, tetapi menurut saya penggunaan slider itu menganggu karena semua tombol dibagian itu penting. Jadi saya melakukan perubahan yang dimana saya menampilkan seluruh tombol portal layanannya agar user lebih mudah melihat layanan apa saja yang tersedia tanpa menunggu slidernya berganti.
 
 ## Bagian 6 - Peta Wilayah Papua Barat
 #### Before
@@ -51,4 +51,30 @@ Dibambar before diatas dapat dilihat ada peta dan gambar papua barat, ternyata s
 ![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/a053a121-a11f-452f-96da-6e8cf86acbd1)
 Digambar before dapat dilihat beberapa gambar destinasi dan atraksi yang ada di papua barat, tapi setelah saya membuka informasi destinasi/atraksi nya, ternyata penjelasan yang diberikan sangat sedikit. Jadi saya melakukan perubahan yang dimana di halaman home nya, penjelasan singkat masing-masing destinasi/atraksi sudah ada, jadi user tidak usah repot-repot membuka masing-masing gambar untuk melihat penjelasan lebih lanjutnya. serta saya mengubah warna background nya menjadi biru untuk membuat tampilan web nya lebih konsisten.
 
-## Bagian 10 - 
+## Bagian 10 - Berita Dan Kegiatan
+#### Before
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/92216202-d9bc-4882-91e3-ad02691586dd)
+#### After
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/51f0a861-7521-465b-8f59-5627a8dc90fa)
+Dibagian berita dan kegiatan, saya membuat tampilannya lebih kecil dan lebih bersih desainnya. Desain sebelumnya sebenarnya sudah hampir bagus, tapi terlalui banyak element-element dalam bagian berita yang berantankan dan menyebabkan webnya kurang enak dipandang, serta dibagian kegiatan hanya menampilkan 1 kegiatan saja, jadi saya menggabungkan kedua bagian berita dan kegiatan menjadi 1 bagian saja.
+
+## Bagian 11 - Laporan Kinerja Pemerintah
+#### Before
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/b35ef116-b79b-408d-811f-f3c29e519203)
+#### After
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/e7bfe9fd-4450-4b3f-8867-991968eeb945)
+Digambar before dapat dilihat ada 2 bagian slider laporan kinerja pemerintah, disebelah kiri lppd dan disebelah kanan LKPD. Ketika saya melihat semua gambar slider nya, ternyata gambar yang ditampilkan sama, Jaadi saya melakukan perubahan yang dimana saya menggabungkan slidernya menjadi 1 bagian saja, serta saya mengubah warna backgroundnya menjadi biru agar penggunaan warna di web nya tetap konsisten.
+
+## Bagian 11 - Sama Sama Jaga Papua Barat
+#### Before
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/df9d503c-bfb8-4b71-a37e-b3b650b60de6)
+#### After
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/901948fa-68e7-4068-8d52-bb5814094cbe)
+Dibagian diatas, saya banyak mnelakukan perubahan terhadap desainnya, yaitu menghapus semua tampilan social media nya. Alasan saya menghapus semua itu karena dibagian navbar dan footer sudah menampilkan social media, dan menurut saya secara pribadi jika terlalu banyak menampilkan social media di web pemerintah itu keliatan tidak profesional, jadi saya mengubah bagian itu untuk menampilkan maps yang saya pindahkan dari footer serta menampilkan logo nya.
+
+## Bagian 12 - Footer
+#### Before
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/cccc4bd5-cdbb-41fd-80ac-b0f8a36e21e7)
+#### After
+![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/9dce44c3-7457-4b08-a16e-c6c15ca007df)
+dibagian footer saya hanya mengubah sedikit tampilannya. pertama saya memindahkan maps dibagian atas, kemudian saya membuat semua text menjadi center, serta saya mengubah seluruh ukuran font menjadi lebih kecil.
