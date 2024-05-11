@@ -1,4 +1,4 @@
-# Tugas-ReDesain-Web
+# ReDesain Web
 # Web Pemerintah Papua Barat
 Saya memilih untuk mendesain ulang web pemerintah papua barat karena saya melihat ada beberapa bagian dalam web nya yang bisa diubah menjadi lebih mudah dilihat oleh pengunjung webnya. Adapun beberapa elemen dibagian web nya yang kurang ditengah dan tidak memperhatikan white space nya.
 
