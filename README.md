@@ -78,3 +78,9 @@ Dibagian diatas, saya banyak mnelakukan perubahan terhadap desainnya, yaitu meng
 #### After
 ![image](https://github.com/ZakyBisdig/Tugas-ReDesain-Web/assets/147672935/9dce44c3-7457-4b08-a16e-c6c15ca007df)
 dibagian footer saya hanya mengubah sedikit tampilannya. pertama saya memindahkan maps dibagian atas, kemudian saya membuat semua text menjadi center, serta saya mengubah seluruh ukuran font menjadi lebih kecil.
+
+# Tampilan Keseluruhan Web
+#### Before
+![image](https://github.com/ZakyBisdig/Zaky-ReDesain-Web/assets/147672935/aa0f1ff8-47a7-4031-afb3-0385db5d4945)
+#### After
+![image](https://github.com/ZakyBisdig/Zaky-ReDesain-Web/assets/147672935/05c09722-d3a5-41cc-ab7e-b850281e77be)
